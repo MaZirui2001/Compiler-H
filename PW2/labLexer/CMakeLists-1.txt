@@ -1,0 +1,7 @@
+
+
+CMAKE_MINIMUM_REQUIRED(VERSION 1.0)
+
+PROJECT(labLexer-1)
+
+ADD_EXECUTABLE(labLexer-1 ./src/labLexer-1.c)
